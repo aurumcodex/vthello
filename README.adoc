@@ -1,0 +1,5 @@
+= vthello
+
+the game of othello, but written in V.
+
+because why not?
